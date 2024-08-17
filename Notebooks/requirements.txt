@@ -2,4 +2,5 @@ torch
 scipy
 numpy
 matplotlib
-sklearn
+scikit-learn
+torchvision
