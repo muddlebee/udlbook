@@ -2,3 +2,6 @@
 *cifar*
 *data*
 .env
+*.npy
+*tfevents*
+*.pth
